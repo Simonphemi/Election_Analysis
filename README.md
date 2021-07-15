@@ -2,7 +2,7 @@
 The purpose of the analysis is to sort the election results by candidate and County to determine the winner of the Election 
 
 # Election Audit Results
-  For this project, I were given a scenario where a Colorado Board of Elections employee requested my help in completing an election audit of a recent local congressional election. The following tasks were performd by me to be included in the completed election audit:
+  For this project, We were given a scenario where a Colorado Board of Elections employee requested my help in completing an election audit of a recent local congressional election. The following tasks were performd by me to be included in the completed election audit:
 
 Calculate the total number of votes cast
 Calculate the list of candidates who received votes
